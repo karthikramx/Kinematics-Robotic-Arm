@@ -13,3 +13,9 @@ eliela tumamachi ka lili lo
 hence this usage
 `totatima nini mama`
 hihaha
+
+### License
+just kidding bro
+
+### About Karthik Ram
+Hello world
