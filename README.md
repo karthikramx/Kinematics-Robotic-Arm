@@ -1,21 +1,16 @@
 # Kinematics-on-MATLAB
-You are a **robotics enthsiast**. This repo will get you started with kinematics on MATLAB
-
+This repo is to get you started with kinematics on MATLAB
 
 ### Usage
-Umama mamam Dada mama
+clone the repo and add the downloaded folder to your MATLAB workspace. 
 
 ### Code Stucture
-eliela tumamachi ka lili lo
 
 ### Code Example
-`ne ne thu thut pika pika pika chu;`
-hence this usage
-`totatima nini mama`
-hihaha
 
-### License
-just kidding bro
 
 ### About Karthik Ram
-Hello world
+Robotics Software Engineer|Maker
+Email    : karthikram570@gmail.com
+LinkedIn : https://www.linkedin.com/in/karthikram570/
+Website  : https://karthikram05.wordpress.com/
