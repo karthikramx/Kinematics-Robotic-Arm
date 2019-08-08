@@ -11,6 +11,9 @@ clone the repo and add the downloaded folder to your MATLAB workspace.
 
 ### About Karthik Ram
 Robotics Software Engineer|Maker
+#
 Email    : karthikram570@gmail.com
+#
 LinkedIn : https://www.linkedin.com/in/karthikram570/
+#
 Website  : https://karthikram05.wordpress.com/
